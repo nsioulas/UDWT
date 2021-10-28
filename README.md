@@ -7,3 +7,6 @@ The datasaet used for this project can be found here:
 
 https://drive.google.com/drive/folders/1Wh7UDQU9YldhfzyVOGlrUiZJjTW8aTL0?usp=sharing
 
+This dataset includes magnetic field and particle data ata various heliospheric distances, separated into 1-Hour intervals
+
+
