@@ -7,6 +7,7 @@ The datasaet used for this project can be found here:
 
 https://drive.google.com/drive/folders/1Wh7UDQU9YldhfzyVOGlrUiZJjTW8aTL0?usp=sharing
 
-This dataset includes magnetic field and particle data ata various heliospheric distances, separated into 1-Hour intervals
+This dataset includes magnetic field and particle data ata various heliospheric distances, separated into 1-Hour intervals. The format of the files is .mat. 
+This is because those files were ment to be used in Matlab. However, one can load those files in pythin with Scipy and it doesn't seem to be too slow
 
 
