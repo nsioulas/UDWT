@@ -3,14 +3,14 @@ This file decomposes the vector magnetic field fluctuations onto the vector back
 
 
 
-Where to find data?
+# Where to find data?
 
-The datasaet used for this project can be found here:
+  The datasaet used for this project can be found here:
 
-https://drive.google.com/drive/folders/1Wh7UDQU9YldhfzyVOGlrUiZJjTW8aTL0?usp=sharing
+  https://drive.google.com/drive/folders/1Wh7UDQU9YldhfzyVOGlrUiZJjTW8aTL0?usp=sharing
 
-This dataset includes magnetic field and particle data ata various heliospheric distances, separated into 1-Hour intervals. The format of the files is .mat. 
-This is because those files were meant to be used in Matlab. However, one can load those files in pythin with Scipy and it doesn't seem to be significantly slower than other more frequently used methods.
+  This dataset includes magnetic field and particle data ata various heliospheric distances, separated into 1-Hour intervals. The format of the files is .mat. 
+  This is because those files were meant to be used in Matlab. However, one can load those files in pythin with Scipy and it doesn't seem to be significantly slower than other more frequently used methods.
 
 
 
